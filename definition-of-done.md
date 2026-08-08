@@ -1,6 +1,6 @@
 # Definition of Done
 
-The **Definition of Done** is all about the big picture, focusing on the overall quality and completeness of the project, feature, or [User Story](./user-story-and-acceptance-criteria.md#user-story). It’s a shared understanding among the team that sets the standard for what "done" means. The Definition of Done includes criteria like code quality, testing, documentation, and integration.
+The **Definition of Done** is all about the big picture, focusing on the overall quality and completeness of the project, feature, or [User Story](pathum25/user-story-and-acceptance-criteria.md#user-story). It’s a shared understanding among the team that sets the standard for what "done" means. The Definition of Done includes criteria like code quality, testing, documentation, and integration.
 
 ## The Outcome is Achieved
 
