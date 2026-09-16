@@ -1,3 +1,7 @@
+- name: "ChocolateyBlog"
+  color: "D4C5F9"
+- name: "ChocolateyWebsite"
+  color: "D4C5F9"
 - name: "CommunityRepository"
   color: "D4C5F9"
 - name: "package-cacher"
